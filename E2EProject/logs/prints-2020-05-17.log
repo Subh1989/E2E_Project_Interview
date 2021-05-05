@@ -1,0 +1,6 @@
+21:15:31.048 [main] INFO  resources.Base - Driver is initialized successfully
+21:15:34.968 [main] INFO  resources.Base - Url is opened successfully
+21:15:35.459 [main] INFO  resources.Base - Required text is displayed in the Home Page
+21:15:35.673 [main] INFO  resources.Base - Required section is getting displayed in the Home Page
+21:16:04.485 [main] INFO  resources.Base - User is able to pass the username, password and able to click the submit button
+21:16:50.430 [main] INFO  resources.Base - User is able to pass the username, password and able to click the submit button
